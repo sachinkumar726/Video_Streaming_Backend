@@ -1,0 +1,10 @@
+# Ignore specific folders
+.vscode
+node_modules
+dist
+
+# Ignore all env files
+
+*.env
+.env
+.env*
